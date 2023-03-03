@@ -1,0 +1,3 @@
+shared:
+  credentials_file: "<Path to google api credentials file>"
+  parent: "projects/<project_id from credentials file>/locations/global"
